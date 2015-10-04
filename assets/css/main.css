@@ -73,7 +73,7 @@ hr.small {
    padding: 0;
    position: relative;
    text-indent: -9999px;
-   width: 300px;
+   width: 360px;
 }
 
 .header-navbar-logo:after {
@@ -394,7 +394,7 @@ hr.small {
 }
 
 .header-bg {
-    background: url(../img/webbg_responsive.jpg) repeat 0 0 scroll;
+    background: url(../img/ocp_wallpaper_dark_4k_copy.png) repeat 0 0 scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -573,7 +573,7 @@ hr.small {
    line-height: 36px;
 }
 
-/* Apply */
+/* Register */
 .section-apply {
     background-color: #193d56;
     color: #fff;
@@ -633,7 +633,7 @@ hr.small {
 }
 
 .schedule {
-    background-color: #193d56;
+    background-color: #785098;
     color: #fff;
     padding-bottom: 128px;
 }
@@ -786,11 +786,11 @@ hr.small {
 
 /* Footer */
 .page-footer {
-    background: linear-gradient(rgba(255, 255, 255, 1) 10%, rgba(17, 89, 115, 0.12)), url('../img/general-surgery.jpg');
-    padding-top: 350px;
+    background: linear-gradient(rgba(255, 255, 255, 1) 10%, rgba(17, 89, 115, 0.12));
+    padding-top: 50px;
     width: 100%;
     background-repeat: no-repeat;
     background-size: cover cover;
     background-position: center center;
-    padding-bottom: 200px;
+    padding-bottom: 50px;
 }
