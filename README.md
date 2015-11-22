@@ -14,3 +14,4 @@ Then go to http://localhost:8000/ to visit your development version of the site.
 
 By the end of the tutorial, @jovo will be able to do all the issues, without actually speaking to anybody
 
+See updated schedule here: https://github.com/openconnectome/hack-neurodata/blob/gh-pages/demo_schedule.md
